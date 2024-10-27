@@ -1,7 +1,5 @@
 # This code is primarily based on examples from the official
 # PyCryptodome website (https://www.pycryptodome.org/src/examples)
-# Adjustments have been made to fit the specific requirements of this program, 
-# but the core structure and logic are derived from the referenced examples.
 
 import sys
 from Crypto.Cipher import AES, PKCS1_OAEP
